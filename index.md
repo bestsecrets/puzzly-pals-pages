@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Datenschutzerklärung
 last_updated: 2026-03-28
 ---
